@@ -40,7 +40,7 @@ AgroConnect enables end-to-end digital contract farming:
 
 ## System Architecture
 
-![AgroConnect Platform Architecture](docs/argoconnec.png)
+![AgroConnect Platform Architecture](docs/argoconnect.png)
 
 ---
 
