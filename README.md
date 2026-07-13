@@ -11,6 +11,7 @@ This project is designed to modernize contract farming through digital workflows
 ## Table of Contents
 
 - [Overview](#overview)
+- [System Architecture](#system-architecture)
 - [Key Personas](#key-personas)
 - [Core Capabilities](#core-capabilities)
 - [AI Capabilities](#ai-capabilities)
@@ -34,6 +35,12 @@ AgroConnect enables end-to-end digital contract farming:
 - AI services provide multilingual communication, recommendations, and risk insights.
 
 > **Note:** This repository documentation reflects a **production target architecture** and implementation direction. Some features may be planned/in-progress.
+
+---
+
+## System Architecture
+
+![AgroConnect Platform Architecture](docs/argoconnec.png)
 
 ---
 
